@@ -9,7 +9,7 @@ from mlxtend.frequent_patterns import fpgrowth, association_rules
 # -----------------------
 
 # Load the CSV file into a DataFrame
-csv_path = '/Users/BTCJULIAN/Downloads/mma_mart.csv'
+csv_path = '.../mma_mart.csv'
 df = pd.read_csv(csv_path)
 
 
